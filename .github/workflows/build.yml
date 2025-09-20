@@ -2,7 +2,9 @@ name: Build Fabric Mod
 
 on:
   push:
-    workflow_dispatch:   # 手动触发
+    branches: [ "main" ]   # 每次推送 main 分支时触发
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   build:
