@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">World-Name-Packet</h1>
-  <p>世界名称数据包</p>
+  <h1 align="center">WorldNamePacket-Updated</h1>
+  <p>世界名称数据包-高版本支持</p>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 在多世界模式下 - 无需手动配置，且不会出现“世界未识别”的情况
 信息。
 
-支持的平台：Fabric、Spigot。
+支持的平台：Fabric、Spigot
 
 支持的地图模组：VoxelMap、Xaero's Map、JourneyMap、Rei's Minimap。
 
