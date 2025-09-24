@@ -1,7 +1,5 @@
-<div align="center">
-  <h1 align="center">WorldNamePacket-Updated</h1>
-  <p>世界名称数据包-高版本支持</p>
-</div>
+<h1 align="center">WorldNamePacket-Updated</h1>
+<p align="center">世界名称数据包-高版本支持</p>
 
 <div align="center">
   <a href="./LICENSE">
